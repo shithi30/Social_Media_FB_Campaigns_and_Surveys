@@ -11,11 +11,8 @@
 - Email thread: 
 - Notes (if any): 
 	Hi Mahmud, we will survey this SPU churn segment ('ch-zombie' and 'ch-uninstalled'). Please share 200 users number from each month.
-	
 	From Jul 20 to Nov 21.
-	
-	
-	Information-
+	Information:
 	
 	TK mobile number
 	Biz name
