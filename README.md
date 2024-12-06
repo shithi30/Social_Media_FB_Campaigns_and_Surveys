@@ -10,5 +10,5 @@
 <img width="470" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/91b100a4-4b1d-4e1e-ae23-01a369fdbd89">
 </p>
 
-For understanding the implication of such engagement analytics, [click](https://www.tallykhata.com/en/home-eng/) to know how *TallyKhata*'s business operates.
+For understanding the implication of such engagement analytics, [click here](https://www.tallykhata.com/en/home-eng/) to know how *TallyKhata*'s business operates.
 
