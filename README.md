@@ -1,4 +1,4 @@
-*TallyKhata* would engage with its customers in a variety of ways, including:
+*TallyKhata* app would engage with its users (mainly small business owners) in a variety of ways, including:
 - Focused Group Discussions (FGDs), Facebook groups/live sessions, phone call surveys, greeting cards sharing campaigns, flash mobs, field visits, story sharing etc.
 - This repository contains scripts to generate and report on TG for the said engagement activities: winback of churns, participation ratio, CTR (Click-through-Rate), impressions, shares etc.
 
